@@ -1,0 +1,9 @@
+my name is = 'Zed A. Shaw'
+my_age = 35 # not a lie
+my height = 74 # inches
+my_weight = 74 # lbs
+my eyes = 'Blue'
+my teeth = 'White'
+my hair = 'Brown'
+
+print "Let's talk about 
